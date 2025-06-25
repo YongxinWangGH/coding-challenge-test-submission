@@ -37,7 +37,13 @@
       ],
       "@/styles/*": [
         "styles/*"
-      ]
+      ],
+      "@/images/*": [
+        "src/images/*"
+      ],
+      "@/src/*": [
+        "src/*"
+      ],
     },
     "plugins": [
       {
