@@ -242,7 +242,7 @@ function App() {
         On Click, it must clear all form fields, remove all search results and clear all prior
         error messages
         */}
-        <Button variant='secondary' onClick={handleClear} children='Clear all fields' />
+        <Button variant='secondary' onClick={handleClear}>Clear all fields</Button>
 
       </Section>
 
